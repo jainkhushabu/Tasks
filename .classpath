@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="task 15/src"/>
+	<classpathentry kind="src" path="task17/src"/>
+	<classpathentry kind="src" path="task19/src"/>
+	<classpathentry kind="src" path="task20/src"/>
+	<classpathentry kind="src" path="task21/src"/>
+	<classpathentry kind="src" path="task22/src"/>
+	<classpathentry kind="src" path="task23/src"/>
+	<classpathentry kind="src" path="task24/src"/>
+	<classpathentry kind="src" path="task25/src"/>
+	<classpathentry kind="src" path="task26/src"/>
+	<classpathentry kind="src" path="task27/src"/>
+	<classpathentry kind="output" path="task17/bin"/>
+</classpath>
